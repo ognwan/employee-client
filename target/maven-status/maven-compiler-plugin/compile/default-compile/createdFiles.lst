@@ -1,0 +1,7 @@
+com/fdmgroup/employeeUI/service/EmployeeService.class
+com/fdmgroup/employeeUI/EmployeeUIiGeraldApplication.class
+com/fdmgroup/employeeUI/controller/EmployeeController.class
+com/fdmgroup/employeeUI/exceptions/EmployeeNotFoundException.class
+com/fdmgroup/employeeUI/clients/EmployeesClient.class
+com/fdmgroup/employeeUI/model/Employee.class
+com/fdmgroup/employeeUI/clients/EmployeeWebClient.class

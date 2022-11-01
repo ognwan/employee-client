@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>WebClient</title>
+</head>
+<body>
+	<h1>Welcome</h1>
+	<a th:href="@{/getAllEmployees}">Get All Employees</a>
+	<br>
+	<br>
+	<a th:href="@{/addNewEmployee}">Add new Employee</a>
+	<br>
+	<br>
+	<div>
+		<form th:action="@{/getEmployee}" method="post">
+			<label>Enter ID to find</label> <input type="text" name="id">
+			<input type="submit" value="Find">
+		</form>
+	</div>
+	<br>
+	<div>
+		<form th:action="@{/deleteEmployee}" method="post">
+			<label>Enter ID to delete</label> <input type="text" name="id">
+			<input type="submit" value="Delete">
+		</form>
+	</div>
+</body>
+</html>

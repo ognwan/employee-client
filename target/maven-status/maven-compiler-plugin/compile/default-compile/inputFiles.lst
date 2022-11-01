@@ -1,0 +1,7 @@
+/home/gerry/Documents/workspace-spring-tool-suite/EmployeeUIGerald/src/main/java/com/fdmgroup/employeeUI/service/EmployeeService.java
+/home/gerry/Documents/workspace-spring-tool-suite/EmployeeUIGerald/src/main/java/com/fdmgroup/employeeUI/clients/EmployeesClient.java
+/home/gerry/Documents/workspace-spring-tool-suite/EmployeeUIGerald/src/main/java/com/fdmgroup/employeeUI/exceptions/EmployeeNotFoundException.java
+/home/gerry/Documents/workspace-spring-tool-suite/EmployeeUIGerald/src/main/java/com/fdmgroup/employeeUI/model/Employee.java
+/home/gerry/Documents/workspace-spring-tool-suite/EmployeeUIGerald/src/main/java/com/fdmgroup/employeeUI/EmployeeUIiGeraldApplication.java
+/home/gerry/Documents/workspace-spring-tool-suite/EmployeeUIGerald/src/main/java/com/fdmgroup/employeeUI/clients/EmployeeWebClient.java
+/home/gerry/Documents/workspace-spring-tool-suite/EmployeeUIGerald/src/main/java/com/fdmgroup/employeeUI/controller/EmployeeController.java
